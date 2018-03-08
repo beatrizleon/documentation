@@ -1,3 +1,10 @@
+---
+title: Blogging Like a Hacker
+sidebar:
+  nav: "docs"
+
+---
+  
 # One-liner
 
 This one-liner is able to install Docker, download the specified image and create a new container for you. It will also create a desktop icon to start the container and launch the hand.
