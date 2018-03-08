@@ -1,4 +1,4 @@
 name: Shadow Robot Company
-permalink: /blog/:year/:month/:day/:title
+permalink: /documentation/blog/:year/:month/:day/:title
 
 theme: jekyll-theme-cayman
