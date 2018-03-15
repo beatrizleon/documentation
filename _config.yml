@@ -16,3 +16,10 @@ defaults:
     values:
       sidebar:
         nav: "docs"
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true 
