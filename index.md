@@ -1,5 +1,5 @@
 ---
-title: Blogging Like a Hacker
+title: Agile Grasper Documentation
 sidebar:
   nav: "docs"
 
