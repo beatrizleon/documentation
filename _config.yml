@@ -265,9 +265,9 @@ defaults:
       sidebar:
         nav: "docs"
   # _pages
-#   - scope:
-#       path: ""
-#       type: pages
-#     values:
-#       layout: single
-#       author_profile: true 
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true 
