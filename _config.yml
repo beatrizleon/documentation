@@ -2,7 +2,7 @@ name: Shadow Robot Documentation
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "dark"
 
-title: "My Awesome Site"
+title: "Shadow Robot Company"
 
 defaults:
   # _docs
