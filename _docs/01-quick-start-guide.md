@@ -1,14 +1,14 @@
 ---
 title: "Quick-Start Guide"
 permalink: /docs/quick-start-guide/
-excerpt: "How to quickly install and setup Minimal Mistakes for use with GitHub Pages."
-last_modified_at: 2018-01-02T16:28:04-05:00
-redirect_from:
-  - /theme-setup/
+excerpt: "How to quickly install and setup the Agile Grasper"
+last_modified_at: 2018-03-15T16:28:04-05:00
 toc: true
 ---
 
-Minimal Mistakes has been developed as a [Jekyll theme gem](http://jekyllrb.com/docs/themes/) for easier use. It is also 100% compatible with GitHub Pages --- just with slightly different installation process.
+If you are unfamiliar with ROS, it is highly recommended that you read the ROS Tutorials: http://www.ros.org/wiki/ROS/Tutorials 
+If you are unfamiliar with the terminal on Linux, you should look here: https://askubuntu.com/questions/183775/how-do-i-open-a-terminal
+Shadow software is deployed using Docker. Docker is a container framework where each container image is a lightweight, stand-alone, executable package that includes everything needed to run it. It is similar to a virtual machine but with much less overhead. Follow the instructions in the next section to get the latest Docker container of the grasper up and running
 
 ## Installing the Theme
 
