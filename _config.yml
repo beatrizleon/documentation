@@ -3,6 +3,7 @@ remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "dark"
 
 title: "Shadow Robot Company"
+repository: "beatrizleon/documentation"
 
 defaults:
   # _docs
