@@ -250,11 +250,13 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
+      author_profile: false
+      read_time: false
+      comments: true
       share: true
       related: true
+      sidebar:
+        nav: "docs"
   # _docs
   - scope:
       path: ""
