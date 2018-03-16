@@ -2,7 +2,7 @@
 title: Agile Grasper Documentation
 sidebar:
   nav: "docs"
-
+toc: true
 ---
   
 This one-liner is able to install Docker, download the specified image and create a new container for you. It will also create a desktop icon to start the container and launch the hand.
