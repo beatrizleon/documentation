@@ -2,7 +2,7 @@
 sidebar:
   nav: "docs"
 ---
-# Overview
+
 This is the starting point for the Agile Grasper.
 
 ## Getting Started
