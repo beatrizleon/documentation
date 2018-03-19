@@ -4,14 +4,12 @@ sidebar:
   nav: "docs"
 toc: true
 ---
-
+ a
 ## Overview
 
 This is the starting point for the Agile Grasper Documentation
 
-![alt text][logo]
-
-[logo]: https://www.shadowrobot.com/wp-content/uploads/sgs1_crop.jpg
+![alt text](https://www.shadowrobot.com/wp-content/uploads/sgs1_crop.jpg "Logo Title Text 1" =250x)
 
 ## Getting Started
 
