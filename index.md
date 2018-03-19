@@ -1,13 +1,14 @@
 ---
+title: "Agile grasper"
 sidebar:
   nav: "docs"
 toc: true
 ---
+
 ## Overview
 
-This is the starting point for the Agile Grasper.
+This is the starting point for the Agile Grasper Documentation
 
-Reference-style: 
 ![alt text][logo]
 
 [logo]: https://www.shadowrobot.com/wp-content/uploads/sgs1_crop.jpg
