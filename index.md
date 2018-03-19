@@ -9,7 +9,7 @@ toc: true
 
 This is the starting point for the Agile Grasper Documentation
 
-<img src="https://www.shadowrobot.com/wp-content/uploads/sgs1_crop.jpg" alt="Drawing" style="width: 200px;"/>
+<img src="https://www.shadowrobot.com/wp-content/uploads/sgs1_crop.jpg" alt="Drawing" style="width: 50%;"/>
 
 ## Getting Started
 
