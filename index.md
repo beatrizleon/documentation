@@ -5,6 +5,11 @@ sidebar:
 toc: true
 ---
 
+.. toctree::
+   :maxdepth: 2
+
+   optoforce/docs/index
+
 ## Overview
 
 This is the starting point for the Agile Grasper Documentation
