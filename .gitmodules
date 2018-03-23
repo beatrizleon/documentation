@@ -1,0 +1,3 @@
+[submodule "optoforce"]
+	path = optoforce
+	url = https://github.com/shadow-robot/optoforce.git
