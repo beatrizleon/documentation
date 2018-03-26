@@ -1,7 +1,8 @@
-site_name: Djangae Documentation
+site_name: Agile Grasper Documentation
 repo_url: https://github.com/beatrizleon/documentation
 pages:
 - Home: index.md
 - Quick start guide: quick_start_guide.md
+- Optoforces: optoforce/docs/Readme.md
 
 theme: readthedocs
