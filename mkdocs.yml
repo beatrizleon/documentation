@@ -2,6 +2,6 @@ site_name: Djangae Documentation
 repo_url: https://github.com/beatrizleon/documentation
 pages:
 - Home: index.md
-- Quick start guide: docs/quick_start_guide.md
+- Quick start guide: quick_start_guide.md
 
 theme: readthedocs
