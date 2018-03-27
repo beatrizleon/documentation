@@ -3,6 +3,6 @@ repo_url: https://github.com/beatrizleon/documentation
 pages:
 - Home: index.md
 - Quick start guide: quick_start_guide.md
-- Optoforces: optoforce/docs/Readme.md
+- Optoforces: optoforce/Readme.md
 
 theme: readthedocs
