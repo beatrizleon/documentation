@@ -4,5 +4,5 @@ pages:
 - Home: index.md
 - Quick start guide: quick_start_guide.md
 
-copyright: 2018
+copyright: "2018. Shadow Robot Company"
 theme: readthedocs
